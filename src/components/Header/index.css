@@ -1,0 +1,10 @@
+.user-info {
+    float: right;
+}
+.user {
+    margin: 0 10px;
+}
+.quit {
+    cursor: pointer;
+    margin: 0 10px;
+}

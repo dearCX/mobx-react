@@ -1,0 +1,59 @@
+{
+    "menus": [
+        {
+          "key": "1",
+          "title": "首页",
+          "type": "pie-chart",
+          "name": "home",
+          "children": [
+            {
+              "index": "/home/one",
+              "title": "首页1",
+              "key": "one"
+            },
+            {
+              "index": "/home/two",
+              "title": "首页2",
+              "key": "two"
+            }
+          ]
+				},
+				{
+          "key": "2",
+          "title": "关于",
+          "type": "desktop",
+          "name": "about",
+          "children": [
+            {
+              "index": "/about/one",
+              "title": "关于1",
+              "key": "aboutone"
+            },
+            {
+              "index": "/about/two",
+              "title": "关于2",
+              "key": "abouttwo"
+            }
+          ]
+				},
+				{
+          "key": "3",
+          "title": "我的",
+          "type": "team",
+          "name": "mine",
+          "children": [
+            {
+              "index": "/mine/one",
+              "title": "我的1",
+              "key": "mineone"
+            },
+            {
+              "index": "/mine/two",
+              "title": "我的2",
+              "key": "minetwo"
+            }
+          ]
+        }
+    ]
+
+}
