@@ -13,7 +13,7 @@ import Main from '../pages/Main';
 
 const routes = [
 	{
-    path: '/home/one',
+    path: '/',
     component: Home,
     exact: true,
   },

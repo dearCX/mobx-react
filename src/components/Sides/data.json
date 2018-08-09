@@ -7,7 +7,7 @@
           "name": "home",
           "children": [
             {
-              "index": "/home/one",
+              "index": "/",
               "title": "首页1",
               "key": "one"
             },
